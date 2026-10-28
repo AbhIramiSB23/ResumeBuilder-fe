@@ -1,0 +1,1 @@
+export const BASEURL ="https://resumebuilder-be-8dkh.onrender.com"
